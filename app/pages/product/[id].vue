@@ -194,7 +194,7 @@ const { handleAddToCart, addToCartButtonStatus } = useCart();
   @apply flex-col gap-3;
 }
 .product-images-thumbs .swiper-slide-thumb-active {
-  @apply border-black dark:border-white;
+  @apply border-white dark:border-white;
 }
 .swiper-button-next,
 .swiper-button-prev {
